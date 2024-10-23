@@ -27,8 +27,7 @@ The assignment involves reading polynomial roots from a JSON file, decoding the 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   gh repo clone Bharathdandamoodi/Catalog-Placements-Assignment--Shamir-s-Secret-Sharing-algorithm
    ```
 
 2. **Install Dependencies**
